@@ -1,0 +1,33 @@
+* { 
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: #fff0f0;
+    }
+
+.body {
+    color: #454747;
+    text-align: center;
+}
+
+.bio {
+    width:50%;
+    margin:auto;
+
+}
+
+.facts {
+    text-align:left;
+    color: #540101;
+
+}
+
+.bi{
+    color: #540101;
+}
+.ul {
+    text-align:left;
+
+}
+
+.p{
+    line-height: 2;
+}
